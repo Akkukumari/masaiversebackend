@@ -5,10 +5,7 @@
   "main": "index.js",
   "scripts": {
     "server": "json-server --watch db.json --port 9090",
-    "watch": "npm run server & npm run start",
-    "cypress:open": "cypress open",
-    "cypress:run": "cypress run --browser chrome",
-    "test": "cypress run --browser chrome"
+    "watch": "npm run server & npm run start"
   },
   "repository": {
     "type": "git",
