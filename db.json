@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Chandra",
+      "age": 25,
+      "place": "Visakhapatnam",
+      "batch_name": "WEB-21",
+      "profession": "FSD"
+    },
+    {
+      "id": 2,
+      "name": "Nrupul",
+      "age": 37,
+      "place": "Vijayawada",
+      "batch_name": "WEB-18",
+      "profession": "FSD"
+    },
+    {
+      "name": "sk1",
+      "age": "26",
+      "place": "dfd",
+      "batch_name": "web14",
+      "profession": "frontend",
+      "id": 4
+    },
+    {
+      "name": "df",
+      "age": "4",
+      "place": "4545",
+      "batch_name": "web-13",
+      "profession": "fsd",
+      "id": 5
+    },
+    {
+      "name": "454",
+      "age": "45",
+      "place": "grfg",
+      "batch_name": "web14",
+      "profession": "frontend",
+      "id": 6
+    },
+    {
+      "name": "dfd",
+      "age": "23",
+      "place": "ssdsd",
+      "batch_name": "web14",
+      "profession": "student",
+      "id": 7
+    },
+    {
+      "name": "dfd",
+      "age": "34",
+      "place": "dfs",
+      "batch_name": "web14",
+      "profession": "frontend",
+      "id": 8
+    },
+    {
+      "name": "dfd",
+      "age": "43",
+      "place": "dfdfd",
+      "batch_name": "web15",
+      "profession": "student",
+      "id": 9
+    }
+  ]
+}
